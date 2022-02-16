@@ -1,0 +1,3 @@
+rootProject.name='CrossTower App'
+include ':app'
+include ':libraryapi'
